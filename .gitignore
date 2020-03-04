@@ -1,0 +1,4 @@
+.vscode 
+testapi/
+main/**/__pycache__
+main/database.db
