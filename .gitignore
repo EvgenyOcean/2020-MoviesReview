@@ -1,4 +1,29 @@
+#API side
 .vscode 
 testapi/
 main/**/__pycache__
 main/database.db
+
+
+#React side
+# dependencies
+moview-review/node_modules
+moview-review/.pnp
+moview-review/.pnp.js
+
+# testing
+moview-review/coverage
+
+# production
+moview-review/build
+
+# misc
+moview-review/.DS_Store
+moview-review/.env.local
+moview-review/.env.development.local
+moview-review/.env.test.local
+moview-review/.env.production.local
+
+moview-review/npm-debug.log*
+moview-review/yarn-debug.log*
+moview-review/yarn-error.log*
